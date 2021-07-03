@@ -1,13 +1,13 @@
 .heading{
-    color: chocolate;
+    color: rgb(255, 0, 179);
     text-align: center;
 }
 .para{
-    color: darkolivegreen;
+    color: rgb(0, 247, 255);
     text-align: justify;
 }
 .division{
-    background-color: darkseagreen;
+    background-color: rgb(255, 72, 0);
 
     border: 2px solid rebeccapurple;
     border-radius: 5px;
@@ -15,4 +15,7 @@
     margin: 10px;
 
     padding: 10px;
+}
+body{
+    background-color: rosybrown;
 }
